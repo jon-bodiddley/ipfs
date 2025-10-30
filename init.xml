@@ -67,7 +67,17 @@
                   <idno generatedBy="pinata" sortKey="bafkreia5tlrj7gsldvawnmbd6bysq6qxsdvjtiwndvl73mxkospdadqgme"/>
                   <desc>before adding @when-iso timestamps and @sortKey CIDs</desc>
                 </post>
-                <post n="3" when-iso="ThhmmssZ"><p></p></post>
+                <post n="3" when-iso="T195142Z">
+                  <ptr target="init-priv.xml#priv_20251030T195142Z"/>
+                  <ptr target="https://ipfs.io/ipfs/QmYcsMCrMSqorRELjm2rJX5Mbu4MPWRwnmN28UvhTYQVg6"/>
+                  <ptr target="https://ipfs.io/ipfs/bafkreideol3u5i2ktlonbxvhplsstvsmxpmqq723gejpiimlfsvuj7bu4e"/>
+                  <idno generatedBy="filebase" sortKey="QmZNxMBr45tgHkd1jL2eyWZp6tXLANL4PSXixgSCBVALEj"/>
+                  <idno generatedBy="pinata" sortKey="bafkreidxeq3zf7tbbklzpbekepmaz6cjiaykfrnfzibllpngs7xz2smymy"/>
+                  <desc>before adding @when-iso timestamps and @sortKey CIDs</desc>
+                </post>
+                <post n="4" when-iso="ThhmmssZ"><p></p></post>
+                <post n="5" when-iso="ThhmmssZ"><p></p></post>
+                <post n="6" when-iso="ThhmmssZ"><p></p></post>
               </div>
             </body>
           </text>

@@ -54,8 +54,13 @@
             <body>
               <div n="1">
                 <docDate when-iso="20251030"/>
-                <post key="" n="1" when-iso="T161723Z"><desc>this very file</desc></post>
-                <post key="" n="2" when-iso="ThhmmssZ"><p></p></post>
+                <post n="1" when-iso="T161723Z">
+                  <idno generatedBy="filebase" sortKey="QmTWAmhWsGckNsm3myWmdKfcBKRybuTXPNLUtz2ZA4R2nf"/>
+                  <idno generatedBy="pinata" sortKey="bafkreie3jzcbvan6weiw2e3uhoayf74huxnr4kbdt3sfktqdxqbbpfez5m"/>
+                  <desc>this very file before adding @when-iso timestamps and @sortKey CIDs</desc>
+                </post>
+                <post key="" n="2" />
+                <post key="" n="3" when-iso="ThhmmssZ"><p></p></post>
               </div>
             </body>
           </text>
@@ -68,4 +73,3 @@
     <TEI/>
   </teiCorpus>
 </teiCorpus>
-

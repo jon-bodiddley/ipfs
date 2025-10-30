@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader/>
+  <teiCorpus n="1" xml:id="contemplated">
+    <teiHeader/>
+    <text/>
+    <TEI xml:id="ipfs_content_ids">
+      <text>
+        <group>
+          <text xml:id="active_YYYYMMDDThhmmssZ">
+            <body>
+              <div n="1">
+                <docDate when-iso="20251030"/>
+                <post n="1" when-iso="T161723Z">
+                  <idno generatedBy="filebase" sortKey="QmTWAmhWsGckNsm3myWmdKfcBKRybuTXPNLUtz2ZA4R2nf"/>
+                  <idno generatedBy="pinata" sortKey="bafkreie3jzcbvan6weiw2e3uhoayf74huxnr4kbdt3sfktqdxqbbpfez5m"/>
+                  <desc>this very file before adding @when-iso timestamps and @sortKey CIDs</desc>
+                </post>
+                <post n="2" when-iso="ThhmmssZ" xml:id="priv_YYYYMMDDThhmmssZ">
+                  <p>
+                    <s>I'm creating this file as place where I can build a story that I don't want exposed to every audience I work with.</s>
+                    <s>Yet the nature of the story I'll be trying to build here is very relevant within the scope of a greater project that will have pointers to indicate instances of this more private work aside.</s>
+                    <s>The greater project is, at least initially, an attempt to organize my life.</s>
+                    <s>For that, I'm working with a few AIs (ChatGPT, DeepSeek, Gemini, Brave's Leo, etc.), some of whom require accounts.</s>
+                    <s>
+                      My use of the IPFS also uses a few accounts,
+                      but their roles if I understand correctly are more to share (pin) files to the IPFS than to environmentally contain them like ordinary Internet file or web hosting services do.
+                    </s>
+                  </p>
+                  <p>
+                    <s>I've gotten used to my own interests in life being more personal than transpersonal.</s>
+                    <s>
+                      Even in my thinking of the world beyond myself I'm thinking of various persons,trying to comprehend what their selves' personal truths might be,
+                      and I have found that many people are uncomfortable with that simple of a version of relativity.</s>
+                    <s>
+                      Some people are even aggressively preventative to this way of relating to human and personal life,and so in order to survive,
+                      I've had to seek those persons and those environments that are for whatever reason and in whatever way more tolerant.
+                    </s>
+                    <s>
+                      But even with best effort I'm still having trouble,
+                      and so I'm interested in seeing how a more decentralized environment like the IPFS might allow me to work through the kinds of thinking I need for things like mental health.
+                    </s>
+                    <s>This file is the beginning of that experiment.</s>
+                  </p>
+                </post>
+                <post n="3" when-iso="ThhmmssZ"><p></p></post>
+              </div>
+            </body>
+          </text>
+        </group>
+      </text>
+    </TEI>
+  </teiCorpus>
+</teiCorpus>

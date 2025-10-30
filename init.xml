@@ -59,7 +59,14 @@
                   <idno generatedBy="pinata" sortKey="bafkreie3jzcbvan6weiw2e3uhoayf74huxnr4kbdt3sfktqdxqbbpfez5m"/>
                   <desc>this very file before adding @when-iso timestamps and @sortKey CIDs</desc>
                 </post>
-                <post n="2" when-iso="T182837Z"><ptr target="init-priv.xml#priv_20251030T182837Z"/></post>
+                <post n="2" when-iso="T182837Z">
+                  <ptr target="init-priv.xml#priv_20251030T182837Z"/>
+                  <ptr target="https://ipfs.io/ipfs/QmYtDPfyQeUAFEqHangatPXDwSXC7wj4aj6ccFwYbeE3mv"/>
+                  <ptr target="https://ipfs.io/ipfs/bafkreibmlajsdvpmycxa44bwt7os7lvdhhwvbl263akd73ysm6vk2rqoxi"/>
+                  <idno generatedBy="filebase" sortKey="QmYyJJkEy3nJTf8wfAiyHJjcvTRSTSe1k3yxbFejQS3jp4"/>
+                  <idno generatedBy="pinata" sortKey="bafkreia5tlrj7gsldvawnmbd6bysq6qxsdvjtiwndvl73mxkospdadqgme"/>
+                  <desc>before adding @when-iso timestamps and @sortKey CIDs</desc>
+                </post>
                 <post n="3" when-iso="ThhmmssZ"><p></p></post>
               </div>
             </body>
@@ -73,4 +80,3 @@
     <TEI/>
   </teiCorpus>
 </teiCorpus>
-

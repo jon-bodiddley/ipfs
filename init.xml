@@ -53,8 +53,8 @@
           <text xml:id="active_YYYYMMDDThhmmssZ">
             <body>
               <div n="1">
-                <docDate when-iso="YYYYMMDD"/>
-                <post key="" n="1" when-iso="ThhmmssZ"><p></p></post>
+                <docDate when-iso="20251030"/>
+                <post key="" n="1" when-iso="T161723Z"><desc>this very file</desc></post>
                 <post key="" n="2" when-iso="ThhmmssZ"><p></p></post>
               </div>
             </body>
@@ -68,3 +68,4 @@
     <TEI/>
   </teiCorpus>
 </teiCorpus>
+

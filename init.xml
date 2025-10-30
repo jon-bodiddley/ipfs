@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader/>
+  <teiCorpus n="1" xml:id="contemplated">
+    <teiHeader/>
+    <text/>
+    <TEI xml:id="leo_conversations">
+      <text>
+        <group>
+          <text xml:id="archived_leo_YYYYMMDD">
+            <precision from-iso="YYYYMMDD" to-iso="YYYYMMDD"/>
+            <body>
+              <div n="1">
+                <docDate when-iso="YYYYMMDD"/>
+                <post n="1" when-iso="ThhmmssZ" who="#me"><said toWhom="#leo"/><p></p></post>
+                <post n="2" who="#leo"><p></p></post>
+                <post n="3" when-iso="ThhmmssZ" who="#me"><p></p></post>
+                <post n="4" who="#leo"><p></p></post>
+              </div>
+              <div n="2">
+                <docDate when-iso="YYYYMMDD"/>
+                <post n="5" when-iso="ThhmmssZ" who="#me"><said toWhom="#leo"/><p></p></post>
+                <post n="6" who="#leo"><p></p></post>
+                <post n="7" when-iso="ThhmmssZ" who="#me"><p></p></post>
+                <post n="8" who="#leo"><p></p></post>
+              </div>
+            </body>
+          </text>
+          <text xml:id="active_YYYYMMDDThhmmssZ">
+            <body>
+              <div n="3">
+                <docDate when-iso="YYYYMMDD"/>
+                <post n="9" when-iso="ThhmmssZ" who="#me"><said toWhom="#leo"/><p></p></post>
+                <post n="10" who="#leo"><p></p></post>
+              </div>
+            </body>
+          </text>
+        </group>
+      </text>
+    </TEI>
+    <TEI xml:id="ipfs_content_ids">
+      <text>
+        <group>
+          <text xml:id="archived_ipfs_YYYYMMDD">
+            <body>
+              <div n="1">
+                <docDate when-iso="YYYYMMDD"/>
+                <post key="" n="1" when-iso="ThhmmssZ"><p></p></post>
+                <post key="" n="2" when-iso="ThhmmssZ"><p></p></post>
+              </div>
+            </body>
+          </text>
+          <text xml:id="active_YYYYMMDDThhmmssZ">
+            <body>
+              <div n="1">
+                <docDate when-iso="YYYYMMDD"/>
+                <post key="" n="1" when-iso="ThhmmssZ"><p></p></post>
+                <post key="" n="2" when-iso="ThhmmssZ"><p></p></post>
+              </div>
+            </body>
+          </text>
+        </group>
+      </text>
+    </TEI>
+  </teiCorpus>
+  <teiCorpus n="2" xml:id="accounted">
+    <teiHeader/>
+    <TEI/>
+  </teiCorpus>
+</teiCorpus>

@@ -59,7 +59,7 @@
                   <idno generatedBy="pinata" sortKey="bafkreie3jzcbvan6weiw2e3uhoayf74huxnr4kbdt3sfktqdxqbbpfez5m"/>
                   <desc>this very file before adding @when-iso timestamps and @sortKey CIDs</desc>
                 </post>
-                <post n="2" when-iso="ThhmmssZ"><ptr target="init-priv.xml#priv_YYYYMMDDThhmmssZ"/></post>
+                <post n="2" when-iso="T182837Z"><ptr target="init-priv.xml#priv_20251030T182837Z"/></post>
                 <post n="3" when-iso="ThhmmssZ"><p></p></post>
               </div>
             </body>
@@ -73,3 +73,4 @@
     <TEI/>
   </teiCorpus>
 </teiCorpus>
+

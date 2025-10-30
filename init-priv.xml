@@ -17,6 +17,8 @@
                   <desc>this very file before adding @when-iso timestamps and @sortKey CIDs</desc>
                 </post>
                 <post n="2" when-iso="T182837Z" xml:id="priv_20251030T182837Z">
+                  <idno generatedBy="filebase" sortKey="QmYtDPfyQeUAFEqHangatPXDwSXC7wj4aj6ccFwYbeE3mv"/>
+                  <idno generatedBy="pinata" sortKey="bafkreibmlajsdvpmycxa44bwt7os7lvdhhwvbl263akd73ysm6vk2rqoxi"/>
                   <p>
                     <s>I'm creating this file as place where I can build a story that I don't want exposed to every audience I work with.</s>
                     <s>Yet the nature of the story I'll be trying to build here is very relevant within the scope of a greater project that will have pointers to indicate instances of this more private work aside.</s>
@@ -52,4 +54,5 @@
     </TEI>
   </teiCorpus>
 </teiCorpus>
+
 
